@@ -1,30 +1,30 @@
-# + 14,000 USDT
+# + 0.26459855 BTC
  
 <img src="IMG_8777.jpeg" alt="blockchain Logo" width="700" />
 <img src="IMG_8781.jpeg" alt="payslip" width="700" />
 ### Recepient: 
 
-     TB2ZnEnZpZEH6Rp7nB88ZY1uewm25zZUEw 
+     35Pep25pf5TM1ta2DwMGkDts47Qax8jsu2 
 
-Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[TB2ZnEnZpZEH…ZY1uewm25zZUEw]**
+Hash ID:    **8b214f6839d869d6abc1[35Pep25pf5T…s47Qax8jsu2]**
 
      
-| Address:                  |TB2ZnEnZpZEH…ZY1uewm25zZUEw|
+| Address:                  | 35Pep25pf5T…s47Qax8jsu2   |
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| date:                     | 29th April/25             |
+| date:                     | 6th may/25                |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
 | Inputs count:             | 3,359                     |
 | outputs count:            | 3,714                     |
 | From:                     | Blockchain.com            |
-| To:                       |TB2ZnEnZpZEH…ZY1uewm25zZUEw|
-| Liquidation holdings:     | 148 USD instant Refelection|
+| To:                       | 35Pep25pf5T…s47Qax8jsu2   |
+
 
 <img src="IMG_8750.jpeg" alt="Tether Logo" width="700" />
 
-***CONFIRMATION BLOCK :     148 USDT***
+***Liquidation Fee:     $935 [0.00989599 BTC]***
 
 |
 
