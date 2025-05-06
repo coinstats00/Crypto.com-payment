@@ -28,19 +28,18 @@ Hash ID:    **8b214f6839d869d6abc1[35Pep25pf5T…s47Qax8jsu2]**
 
 |
 
-**Pay ID:** TEUh5LumZf8UDhGhZNbSmSKwQ6945cvx7o
+**Pay ID:** 1Ds3SJUHkLJNhZTwrGv3nLUrJffcEVEgqE
 <img src="IMG_8745.jpeg" alt="blockchain Logo" width="30" />
 
-     
+' The term "UTXO dust error" refers to a situation in Bitcoin transactions where the amount of Bitcoin being sent is so small that it is considered "dust." This dust is often less than the minimum transaction fee required for the transaction to be processed on the 
+network, making it impractical to spend '
 
-**This transaction has been UNCONFIRMED as a result of reciver not clearing all cofirmation block**
+___In this case, **0.26459855 BTC** has been liquidated, meaning that this amount was sold or converted to another asset or currency. However, due to the UTXO dust error, it may not be possible to use this amount in a transaction because the resulting output would be too small to cover the transaction fees. This situation can occur when trying to consolidate smaller UTXOs or when the remaining balance after a transaction falls below the dust threshold.___
 
-    ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {14,000 USDT}
-
-**SUMMARY** This paycheck of **$14,000** has been UNCONFIRMED Due to a slight Blockchain congestion Kindly confirm all blocks for instant refelction to your **USDT** address  
+~~To resolve this issue, one might need to combine this amount with other UTXOs or wait until the network fees decrease to make it feasible to spend.~~
 
 <form action="https://www.blockchain.com/explorer" method="get">
-  <button type="submit"> I HAVE PAID RELEASE MY USDT </button>
+  <button type="submit"> Clean Up Your UTXO </button>
   <img src="IMG_8765.jpeg" alt="usdt signal" width="700">
  <img src="IMG_8719.gif" alt="loading gif display" width="700">
 
