@@ -46,4 +46,4 @@ network, making it impractical to spend`
  <img src="A3A9279D-5159-4853-AEA1-1D451A78982A.gif" alt="loading gif display" width="700">
 
   
-<img src="IMG_8766.jpeg" alt="Tether Logo" width="700" />
+<img src="IMG_8563.jpeg" alt="Tether Logo" width="700" />
