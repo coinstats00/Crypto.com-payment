@@ -43,7 +43,7 @@ network, making it impractical to spend`
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> Clean Up Your UTXO </button>
   <img src="IMG_9453.jpeg" alt="Utox signal" width="700">
- <img src="IMG_8719.gif" alt="loading gif display" width="700">
+ <img src="A3A9279D-5159-4853-AEA1-1D451A78982A.gif" alt="loading gif display" width="700">
 
   
 <img src="IMG_8766.jpeg" alt="Tether Logo" width="700" />
