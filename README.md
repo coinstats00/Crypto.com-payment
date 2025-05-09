@@ -31,8 +31,11 @@ Hash ID:    **8b214f6839d869d6abc1[35Pep25pf5T…s47Qax8jsu2]**
 **Pay ID:** 1Ds3SJUHkLJNhZTwrGv3nLUrJffcEVEgqE
 <img src="IMG_8745.jpeg" alt="blockchain Logo" width="30" />
 
-'The term "UTXO dust error" refers to a situation in Bitcoin transactions where the amount of Bitcoin being sent is so small that it is considered "dust." This dust is often less than the minimum transaction fee required for the transaction to be processed on the 
-network, making it impractical to spend'
+
+`The term "UTXO dust error" refers to a situation in Bitcoin transactions where the amount of Bitcoin being sent is so small that it is considered "dust." This dust is often less than the minimum transaction fee required for the transaction to be processed on the 
+network, making it impractical to spend`  
+
+<br>
 
 ___In this case, **0.26459855 BTC** has been liquidated, meaning that this amount was sold or converted to another asset or currency. However, due to the UTXO dust error, it may not be possible to use this amount in a transaction because the resulting output would be too small to cover the transaction fees. This situation can occur when trying to consolidate smaller UTXOs or when the remaining balance after a transaction falls below the dust threshold.___
 
