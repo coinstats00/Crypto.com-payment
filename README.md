@@ -8,8 +8,6 @@
 
 Hash ID:    **8b214f6839d869d6abc1[35Pep25pf5T…s47Qax8jsu2]**
 
-<span style="color: Green;">    
- 
 | Address:                  | 35Pep25pf5T…s47Qax8jsu2   |
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
@@ -22,7 +20,6 @@ Hash ID:    **8b214f6839d869d6abc1[35Pep25pf5T…s47Qax8jsu2]**
 | From:                     | Blockchain.com            |
 | To:                       | 35Pep25pf5T…s47Qax8jsu2   |
 
-</span>
 
 <img src="IMG_8750.jpeg" alt="Tether Logo" width="700" />
 
